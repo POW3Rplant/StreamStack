@@ -1,0 +1,2 @@
+# StreamStack
+StreamStack is a document saving website like Dropbox™. Dropbox can host a list of file types. StreamStack is a website designed to have more file types. Files include: .html, .css, .js, .mp3, .mp4, .jar, .txt, .docs, .java, .gif, .jpg, .tiff, .png, .svg, .pdf, .bat, and many, many more. Some not so common file types such as: .dll, .ini, .sh, .vbs, and more. It will have an offline version too. Possibly an AppleScript app in the future? 
